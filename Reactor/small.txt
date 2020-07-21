@@ -51,7 +51,7 @@ Part : /BASE_PART
 		{
 			Type = AmmoConverter
 			ToStorage = BatteryStorage
-			ToQuantity = 1000
+			ToQuantity = 200
 			Interval = .6666
 		}
 
