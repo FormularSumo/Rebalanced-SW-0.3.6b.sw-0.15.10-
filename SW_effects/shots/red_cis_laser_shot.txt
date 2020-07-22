@@ -32,6 +32,7 @@ Components
 		Type = PenetratingHit
 		FactorEffectsWith = Targetable
 		Penetration = 0 // Enough to get through one shield and lose half penetration.
+		SourceShipCollisionDelay = 1
 		PenetratesOperational = false
 		HitShield
 		{

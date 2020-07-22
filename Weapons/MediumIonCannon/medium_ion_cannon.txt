@@ -6,7 +6,7 @@ Part : /BASE_PART
 	OtherIDs = ["medium_ion_cannon"]
 	EditorGroup = "WeaponsEnergy"
 	DescriptionKey = "Parts/MediumIonCannonDesc"
-	Cost = 25000
+	Cost = 15000
 	AIValue = &Cost
 	TypeCategories = [weapon, weapon_using_power]
 	Size = [2, 2]

@@ -6,7 +6,7 @@ Part : /BASE_PART
 	OtherIDs = ["reactor_small1"]
 	EditorGroup = "Power"
 	DescriptionKey = "Parts/SmallreaDesc"
-	Cost = 5000
+	Cost = 10000
 	AIValue = (&Cost) * 5
 	Size = [1, 1]
 	SelectionPriority = 0
@@ -51,7 +51,7 @@ Part : /BASE_PART
 		{
 			Type = AmmoConverter
 			ToStorage = BatteryStorage
-			ToQuantity = 200
+			ToQuantity = 600
 			Interval = .6666
 		}
 
