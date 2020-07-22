@@ -38,7 +38,7 @@ Components
 			[
 				{
 					Type = Damage
-					Damage = 150
+					Damage = 550
 				}
 				{
 					Type = Impulse;
@@ -54,7 +54,7 @@ Components
 			[
 				{
 					Type = Damage
-					Damage = 250
+					Damage = 650
 				}
 				{
 					Type = Impulse;
