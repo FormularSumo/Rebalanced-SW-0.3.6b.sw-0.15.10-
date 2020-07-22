@@ -1,6 +1,6 @@
 ID = SW.red_small_laser_shot_common
 OtherIDs = ["red_small_laser_shot"]
-Range = 250
+Range = 300
 IdealRange = [60, 250]
 IdealRadius = [5, 50]
 Speed = 95

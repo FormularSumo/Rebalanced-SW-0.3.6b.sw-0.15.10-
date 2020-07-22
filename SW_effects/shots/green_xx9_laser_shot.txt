@@ -1,6 +1,6 @@
 ID = SW.green_xx9_laser_shot_common
 OtherIDs = ["green_xx9_laser_shot"]
-Range = 400
+Range = 600
 IdealRange = [60, 375]
 IdealRadius = [5, 50]
 Speed = 80
