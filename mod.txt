@@ -1,6 +1,6 @@
 ID = "SW.StarWars"
 Name = "Star Wars: A Cosmos Divided"
-Version = 0.3.6b
+Version = 0.3.6c
 CompatibleGameVersions = ["0.15.7","0.15.8","0.15.9","0.15.10"]
 Author = "ClassicJam, Lafiel, Skipper_Wraith and Kroom"
 Logo = "ModLogo.png"
