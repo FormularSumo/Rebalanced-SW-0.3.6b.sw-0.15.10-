@@ -67,7 +67,7 @@ Part : /BASE_PART
 			Type = AmmoStorage
 			AmmoType = battery
 			MaxAmmo = 120000
-			ToggleOnAmmo = 119001
+			ToggleOnAmmo = 40000
 			PrerequisiteUnmetAmmo = 0
 			DrainOnFtlJump = true
 		}
