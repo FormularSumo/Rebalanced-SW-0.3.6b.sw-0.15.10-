@@ -77,7 +77,7 @@ Part : /BASE_PART
 			AmmoType = battery
 			Storage = BatteryStorage
 			DefaultPriority = &/PRIORITIES/Defense_Supply
-			ResupplyThreshold = 7000
+			ResupplyThreshold = 500
 			OperationalToggle = PowerToggle
 			DrainOnFtlJump = true
 			ReceiveAmmoMediaEffects = &/COMMON_EFFECTS/PowerDeliver
