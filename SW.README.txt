@@ -74,6 +74,7 @@ Other Credits
   o Kroom:  Artist
   o Jesus: Part Creation
   o Skipper_Wraith: Optimization; Weapon Toggles; Weapon Design
+  o FormularSumo: Balancing Changes
 Feedback
 ========
 
